@@ -159,7 +159,7 @@ a:hover { color: #FF0; }
   font-weight: 700;
   text-decoration: none;
   letter-spacing: 0.5px;
-  animation: fadein 3s;
+  animation: fadein 4s;
 }
 
 
@@ -171,7 +171,7 @@ a:hover { color: #FF0; }
 
 
 .baner-content {
-  padding-top: 30vh;
+  padding-top: 20vh;
   text-align: center;
   background-image: url(../img/bg01.jpg);
 }
