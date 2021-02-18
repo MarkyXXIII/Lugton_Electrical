@@ -12,6 +12,7 @@ A friend of mine recently became a qualified electrician and asked if I could ma
 
 ## Screenshots
 
+*~ Coming soon. ~*
 <!--
 ![Lugton Electrical Services Intro](https://github.com/MarkyXXIII/Lugton_Electrical/blob/main/screenshots/intro.jpg)
 ![Lugton Electrical Services About](https://github.com/MarkyXXIII/Lugton_Electrical/blob/main/screenshots/about.jpg)
