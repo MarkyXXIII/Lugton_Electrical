@@ -210,7 +210,7 @@ a:hover { color: #FF0; }
   padding-left: 15px;
   padding-right: 15px;
   padding-top: 15vh;
-  /*background-image: url(../img/bg16.jpg);*/ /* Second Image */
+  background-image: url(../img/bg05.jpg); /* Second Image */
   background-color: #282b2f;
   background-attachment: fixed;
   min-height: 100vh;
@@ -326,7 +326,7 @@ h4, .h4 {
   padding-left: 15px;
   padding-right: 15px;
   padding-top: 8vh;
-  /*background-image: url(../img/bg11.jpg);*/ /* Fourth Image */
+  background-image: url(../img/bg11.jpg); /* Fourth Image */
   background-color: #282b2f;
   background-attachment: fixed;
   min-height: 100vh;
@@ -396,7 +396,8 @@ section {
   padding-left: 15px;
   padding-right: 15px;
   padding-top: 16vh;
-  background-image: url(../img/bg10.jpg); /* Fifth image*/
+  background-color: #282b2f;
+  /*background-image: url(../img/bg04.jpg);*/ /* Fifth image*/
 }
 
 .contact-form {
