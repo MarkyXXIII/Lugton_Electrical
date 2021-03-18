@@ -173,7 +173,7 @@ a:hover { color: #FF0; }
 .baner-content {
   padding-top: 20vh;
   text-align: center;
-  background-image: url(../img/bg01.jpg);
+  background-image: url(../img/bg10d.jpg); /* First Image - Originally (../img/bg01.jpg) */ 
 }
 
 .baner-content h1 {
@@ -210,7 +210,8 @@ a:hover { color: #FF0; }
   padding-left: 15px;
   padding-right: 15px;
   padding-top: 15vh;
-  background-image: url(../img/bg16.jpg);
+  /*background-image: url(../img/bg16.jpg);*/ /* Second Image */
+  background-color: #282b2f;
   background-attachment: fixed;
   min-height: 100vh;
   background-size: cover;
@@ -271,7 +272,7 @@ h4, .h4 {
 
 .projects-content {
   padding-top: 20vh;
-  background-image: url(../img/bg19.jpg); /* Third Image*/
+  background-image: url(../img/bg19.jpg); /* Third Image */
 }
 
 .projects-content .item img {
@@ -325,7 +326,8 @@ h4, .h4 {
   padding-left: 15px;
   padding-right: 15px;
   padding-top: 8vh;
-  background-image: url(../img/bg11.jpg);
+  /*background-image: url(../img/bg11.jpg);*/ /* Fourth Image */
+  background-color: #282b2f;
   background-attachment: fixed;
   min-height: 100vh;
   background-size: cover;
@@ -394,7 +396,7 @@ section {
   padding-left: 15px;
   padding-right: 15px;
   padding-top: 16vh;
-  background-image: url(../img/bg10.jpg); /* Image 5 (bg10)*/
+  background-image: url(../img/bg10.jpg); /* Fifth image*/
 }
 
 .contact-form {
